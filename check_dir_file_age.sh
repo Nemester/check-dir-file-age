@@ -2,6 +2,9 @@
 #
 # check_dir_file_age.sh - Icinga/Nagios check for newest/oldest file age in a directory
 #
+# Repository:
+#   https://github.com/Nemester/check-dir-file-age
+#
 # Description:
 #   Checks the newest or oldest file in a given directory and evaluates its age
 #   against warning and critical thresholds.
