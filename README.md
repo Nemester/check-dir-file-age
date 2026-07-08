@@ -208,11 +208,11 @@ command[check_oldest_file_pd]=/usr/lib/nagios/plugins/check_dir_file_age.sh --di
 
 ## License
 
+MIT License
+
 ---
 
 ## ⭐ Support the Project
 
 If you find this project useful, please consider giving it a star on GitHub.
 It helps others discover the project and motivates me to keep improving it. Thank you for your support!
-
-MIT License
